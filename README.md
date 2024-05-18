@@ -10,9 +10,9 @@ utilizados no projeto.
 Com o foco no varejo online, temos como proposta trazer uma solução para empresas a identificação e segmentação grupos de clientes com características semelhantes
 através da inteligência artificial.
 
-#link do vídeo 
+### link do vídeo 
 
 
 
-#link dataset
+### link dataset
 https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data/data
